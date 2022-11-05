@@ -1,0 +1,25 @@
+.classContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.button {
+  padding: 10px;
+  margin: 20px;
+  background-color: pink;
+  color: rgb(85, 5, 5);
+  font-style: bold;
+}
+
+.name-button {
+  padding: 10px;
+  margin: 20px;
+  background-color: rgb(21, 152, 113);
+  color: rgb(249, 245, 245);
+  font-style: bold;
+}
+
+h1 {
+  font-size: 35px;
+}
